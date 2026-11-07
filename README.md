@@ -47,19 +47,6 @@ Platform work across [VoltageOS](https://github.com/VoltageOS) and [OmniROM](htt
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GT020&show_icons=true&hide=issues,prs&hide_border=true&theme=github_dark" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GT020&show_icons=true&hide=issues,prs&hide_border=true&theme=default" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GT020&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GT020&layout=compact&langs_count=8&hide_border=true&theme=default" />
-  </picture>
-</p>
-
 ---
 
 <div align="center">
