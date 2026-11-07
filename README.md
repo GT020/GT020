@@ -24,8 +24,6 @@ Software engineer from India. I like rebuilding things from scratch to understan
 | [krusty](https://github.com/GT020/krusty) | Native Kubernetes IDE — a local-first Lens alternative | `Rust` `GPUI` `kube-rs` |
 | [plasma-youtube-music](https://github.com/GT020/plasma-youtube-music) | YouTube Music now-playing widget for KDE Plasma 6 | `QML` `KDE` |
 | [spoke](https://github.com/GT020/spoke) | Desktop dashboard for FTMS indoor exercise bikes | `Rust` `GPUI` |
-| [dp](https://github.com/GT020/dp) | NeetCode 150 DP solutions with intuition-first notes and tests | `Go` |
-| [movarr-mobile-client](https://github.com/movarr/movarr-mobile-client) | Mobile client for movarr | `C++` |
 
 ## Android & platform
 
